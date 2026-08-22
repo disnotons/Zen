@@ -100,3 +100,16 @@
 * [7.15 有求皆苦，無求即樂(유구개고 무구즉락)](달마대사_7.15_유구개고_무구즉락_chaptered-md-commentary.md)
 * [7.16 判知無求，真為道行(판지무구 진위도행)](달마대사_7.16_판지무구_진위도행_chaptered-md-commentary.md)
 * [7.17 無所求(무소구) ≠ 무기력·포기](달마대사_7.17_무소구_무기력_포기_아님_chaptered-md-commentary.md)
+* [7.18 無所求行(무소구행) 전체 통합](달마대사_7.18_무소구행_전체통합_chaptered-md-commentary.md)
+
+## 달마 대사님 — 제8부 稱法行(칭법행)
+
+* [8.1 稱法行(칭법행)이란 무엇인가](달마대사_8.1_칭법행이란_무엇인가_chaptered-md-commentary.md)
+* [8.2 性淨之理 目之為法(성정지리 목지위법)](달마대사_8.2_성정지리_목지위법_chaptered-md-commentary.md)
+* [8.3 眾相斯空(중상사공)](달마대사_8.3_중상사공_chaptered-md-commentary.md)
+* [8.4 無染無著(무염무착)](달마대사_8.4_무염무착_chaptered-md-commentary.md)
+* [8.5 無此無彼(무차무피)](달마대사_8.5_무차무피_chaptered-md-commentary.md)
+* [8.6 法無眾生，離眾生垢故(법무중생 이중생구고)](달마대사_8.6_법무중생_이중생구고_chaptered-md-commentary.md)
+* [8.7 法無有我，離我垢故(법무유아 이아구고)](달마대사_8.7_법무유아_이아구고_chaptered-md-commentary.md)
+* [8.8 智者若能信解此理，應當稱法而行(지자약능신해차리 응당칭법이행)](달마대사_8.8_신해차리_칭법이행_chaptered-md-commentary.md)
+* [8.9 法體無慳(법체무간)](달마대사_8.9_법체무간_chaptered-md-commentary.md)
