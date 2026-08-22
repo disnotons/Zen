@@ -64,3 +64,16 @@
 * [5.11 體冤進道(체원진도)](달마대사_5.11_체원진도_chaptered-md-commentary.md)
 * [5.12 報冤行(보원행) ≠ 부당함의 정당화](달마대사_5.12_보원행_부당함의_정당화_아님_chaptered-md-commentary.md)
 * [5.13 報冤行(보원행) 전체 통합](달마대사_5.13_보원행_전체통합_chaptered-md-commentary.md)
+
+## 달마 대사님 — 제6부 隨緣行(수연행)
+
+* [6.1 隨緣行(수연행)이란 무엇인가](달마대사_6.1_수연행이란_무엇인가_chaptered-md-commentary.md)
+* [6.2 眾生無我(중생무아)](달마대사_6.2_중생무아_chaptered-md-commentary.md)
+* [6.3 並緣業所轉(병연업소전)](달마대사_6.3_병연업소전_chaptered-md-commentary.md)
+* [6.4 苦樂齊受·皆從緣生(고락제수·개종연생)](달마대사_6.4_고락제수_개종연생_chaptered-md-commentary.md)
+* [6.5 勝報榮譽(승보영예)](달마대사_6.5_승보영예_chaptered-md-commentary.md)
+* [6.6 緣盡還無(연진환무)](달마대사_6.6_연진환무_chaptered-md-commentary.md)
+* [6.7 何喜之有(하희지유)](달마대사_6.7_하희지유_chaptered-md-commentary.md)
+* [6.8 得失從緣(득실종연)](달마대사_6.8_득실종연_chaptered-md-commentary.md)
+* [6.9 心無增減(심무증감)](달마대사_6.9_심무증감_chaptered-md-commentary.md)
+* [6.10 喜風不動(희풍부동)](달마대사_6.10_희풍부동_chaptered-md-commentary.md)
