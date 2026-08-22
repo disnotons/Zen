@@ -77,3 +77,16 @@
 * [6.8 得失從緣(득실종연)](달마대사_6.8_득실종연_chaptered-md-commentary.md)
 * [6.9 心無增減(심무증감)](달마대사_6.9_심무증감_chaptered-md-commentary.md)
 * [6.10 喜風不動(희풍부동)](달마대사_6.10_희풍부동_chaptered-md-commentary.md)
+* [6.11 冥順於道(명순어도)](달마대사_6.11_명순어도_chaptered-md-commentary.md)
+* [6.12 隨緣(수연) ≠ 체념](달마대사_6.12_수연_체념아님_chaptered-md-commentary.md)
+* [6.13 隨緣行(수연행) 전체 통합](달마대사_6.13_수연행_전체통합_chaptered-md-commentary.md)
+
+## 달마 대사님 — 제7부 無所求行(무소구행)
+
+* [7.1 無所求行(무소구행)이란 무엇인가](달마대사_7.1_무소구행이란_무엇인가_chaptered-md-commentary.md)
+* [7.2 世人長迷(세인장미)](달마대사_7.2_세인장미_chaptered-md-commentary.md)
+* [7.3 處處貪著，名之為求(처처탐착 명지위구)](달마대사_7.3_처처탐착_명지위구_chaptered-md-commentary.md)
+* [7.4 智者悟真(지자오진)](달마대사_7.4_지자오진_chaptered-md-commentary.md)
+* [7.5 理將俗反(이장속반)](달마대사_7.5_이장속반_chaptered-md-commentary.md)
+* [7.6 安心無為(안심무위)](달마대사_7.6_안심무위_chaptered-md-commentary.md)
+* [7.7 形隨運轉(형수운전)](달마대사_7.7_형수운전_chaptered-md-commentary.md)
