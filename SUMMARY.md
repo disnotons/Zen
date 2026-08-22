@@ -123,3 +123,16 @@
 * [8.17 亦能莊嚴菩提之道(역능장엄보리지도)](달마대사_8.17_장엄보리지도_chaptered-md-commentary.md)
 * [8.18 檀施既爾，餘五亦然(단시기이 여오역연)](달마대사_8.18_단시기이_여오역연_chaptered-md-commentary.md)
 * [8.19 修行六度而無所行(수행육도이무소행)](달마대사_8.19_수행육도이무소행_chaptered-md-commentary.md)
+* [8.20 稱法行(칭법행) ≠ 아무것도 하지 않음](달마대사_8.20_칭법행_아무것도하지않음_아님_chaptered-md-commentary.md)
+* [8.21 稱法行(칭법행) 전체 통합](달마대사_8.21_칭법행_전체통합_chaptered-md-commentary.md)
+
+## 달마 대사님 — 제9부 전체 통합
+
+* [9.1 安心(안심)과 壁觀(벽관)](달마대사_9.1_안심과_벽관_chaptered-md-commentary.md)
+* [9.2 發行(발행)과 四行(사행)](달마대사_9.2_발행과_사행_chaptered-md-commentary.md)
+* [9.3 理入(이입)과 行入(행입)은 둘인가 하나인가](달마대사_9.3_이입과_행입은_둘인가_하나인가_chaptered-md-commentary.md)
+* [9.4 壁觀(벽관)과 四行(사행)의 관계](달마대사_9.4_벽관과_사행의_관계_chaptered-md-commentary.md)
+* [9.5 無自無他(무자무타)와 凡聖等一(범성등일)](달마대사_9.5_무자무타와_범성등일_chaptered-md-commentary.md)
+* [9.6 괴로움에서 자유로: 報冤行(보원행)](달마대사_9.6_괴로움에서_자유로_보원행_chaptered-md-commentary.md)
+* [9.7 득실에서 자유로: 隨緣行(수연행)](달마대사_9.7_득실에서_자유로_수연행_chaptered-md-commentary.md)
+* [9.8 추구에서 자유로: 無所求行(무소구행)](달마대사_9.8_추구에서_자유로_무소구행_chaptered-md-commentary.md)
