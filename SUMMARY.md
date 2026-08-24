@@ -8,6 +8,8 @@
 * [1.4 眾生著相外求(중생착상외구)](황벽선사_1.4_중생착상외구_chaptered-md-commentary.md)
 * [1.5 求之轉失(구지전실)](황벽선사_1.5_구지전실_chaptered-md-commentary.md)
 * [1.6 使佛覓佛·將心捉心(사불멱불·장심착심)](황벽선사_1.6_사불멱불_장심착심_chaptered-md-commentary.md)
+* [1.7 窮劫盡形終不能得(궁겁진형 종불능득)](황벽선사_1.7_궁겁진형_종불능득_chaptered-md-commentary.md)
+* [1.8 息念忘慮 佛自現前(식념망려 불자현전)](황벽선사_1.8_식념망려_불자현전_chaptered-md-commentary.md)
 
 ## 달마 대사님 — 제1부 담림서
 
