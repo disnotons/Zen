@@ -10,6 +10,7 @@
 - [1.4 眾生著相外求](황벽선사_1.4_중생착상외구_chaptered-md-commentary.md)
 - [1.5 求之轉失](황벽선사_1.5_구지전실_chaptered-md-commentary.md)
 - [1.6 使佛覓佛·將心捉心](황벽선사_1.6_사불멱불_장심착심_chaptered-md-commentary.md)
+- [1.7 窮劫盡形終不能得](황벽선사_1.7_궁겁진형_종불능득_chaptered-md-commentary.md)
 
 ## 달마 대사님
 
